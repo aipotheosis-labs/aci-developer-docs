@@ -69,18 +69,6 @@
         ]
       },
       {
-        "tab": "VibeOps",
-        "groups": [
-          {
-            "group": "Introduction",
-            "pages": [
-              "vibeops-introduction/overview",
-              "vibeops-introduction/examples"
-            ]
-          }
-        ]
-      },
-      {
         "tab": "Agent Examples",
         "groups": [
           {
