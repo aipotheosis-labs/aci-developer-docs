@@ -170,5 +170,13 @@
       "linkedin": "https://www.linkedin.com/company/aipotheosis-labs-aipolabs/",
       "discord": "https://discord.gg/nnqFSzq2ne"
     }
-  }
+  },
+  "contextual": {
+   "options": [
+     "copy",
+     "view",
+     "chatgpt",
+     "claude"
+   ]
+ }
 }
